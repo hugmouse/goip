@@ -1,4 +1,4 @@
-# myip - serverless alternative to "What is my IP?" services
+# goip - serverless alternative to "What is my IP?" services
 
 Based on the Vercel ecosystem. 
 
