@@ -1,13 +1,13 @@
 # goip - serverless alternative to "What is my IP?" services
 
-Based on the Vercel ecosystem. 
+Based on the repl.it ecosystem. 
 
 It is a service that responds to any request with information about the request, including IP.
 
 ## Example
 
 ```sh
-curl https://goip.vercel.app
+curl https://goip.hugmouse.repl.co
 ```
 
 ```json

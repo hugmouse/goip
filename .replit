@@ -1,2 +1,2 @@
 language = "go"
-run = "go run cmd/replit/main.go"
+run = "go get -v -u ./... && go run cmd/replit/main.go"
